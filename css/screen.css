@@ -19,7 +19,7 @@ fieldset
 {
   font-family: 'Roboto', sans-serif;
   font-size: 15pt;
-  width: 30em;
+  width: 90%;
   padding: 1em;
   border-color: transparent;
 }
@@ -82,7 +82,6 @@ submit
   {
     align-self: center;
     margin: 3% auto 0 auto;
-    width: 95%;
   }
   
    #submit
