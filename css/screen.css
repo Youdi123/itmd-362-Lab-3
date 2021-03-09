@@ -68,6 +68,11 @@ submit
     width: 100%;
   }
   
+  fieldset
+  {
+    text-align: center;
+  }
+  
   #submit
   {
     align-self: center;
@@ -83,6 +88,11 @@ submit
   {
     align-self: center;
     margin: 3% auto 0 auto;
+  }
+  
+  fieldset
+  {
+    text-align: center;
   }
   
    #submit
